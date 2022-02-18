@@ -11,4 +11,4 @@ The source code is divided into packages:
 "shapes" package contains all the shapes I used such as Rectangle.
 "sprites" package contains the graphic which may be moved on screen such as ball.
 
-To run the game you can download the jar file into a directory in your computer and from this directory on cmd run the command: java -jar Arknoid.jar
+To run the game you can download the jar file into a directory in your computer and from this directory on cmd run the command: java -jar Arkanoid.jar
