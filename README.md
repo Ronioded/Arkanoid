@@ -14,5 +14,6 @@ The source code is divided into packages:
 To run the game you can download the jar file into a directory in your computer and from this directory on cmd run the command: java -jar Arkanoid.jar
 
 The attached video is an example of playing the game (it's a speedup version).
+
 https://user-images.githubusercontent.com/74676502/155840829-122a2b4b-23f5-4748-8d6f-9d75bab8d111.mov
 
